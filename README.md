@@ -99,20 +99,6 @@ Specialist Bowlers (3)	Low economy + strike rate	✅
 <img width="1920" height="1200" alt="Screenshot 2024-12-30 182736" src="https://github.com/user-attachments/assets/8639be19-f38d-496c-9b58-d27640d8d1c0" />
 <img width="1251" height="665" alt="Screenshot 2024-12-30 123205" src="https://github.com/user-attachments/assets/56ca4dd6-92c1-450c-bbef-8a6b2ebd9d60" />
 
-📂 Repository Structure
-t20-player-analysis/
-│── config/
-│   └── settings.py       # API keys, DB configs
-│── scripts/
-│   ├── extract.py        # Data extraction (Bright Data API)
-│   ├── transform.py      # Transform with pandas
-│   ├── load.py           # Load into DB / Power BI
-│── dashboards/           # Power BI files
-│── data/                 # JSON/CSV datasets
-│── images/               # Dashboard screenshots
-│── main.py               # Orchestrator script
-│── requirements.txt      # Python dependencies
-│── README.md             # Project documentation
 
 ⚙️ Tech Stack
 
